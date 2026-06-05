@@ -1,47 +1,21 @@
 # Static-Website
-# To-Do List Web App
+A responsive Anime-themed To-Do List web application built using HTML, CSS, and JavaScript. The project helps users manage daily tasks with a clean and modern UI.
 
-An anime-themed To-Do List web application built using **HTML, CSS, and Vanilla JavaScript**.
+## Live Website
+https://madhurisake13-cloud.github.io/Static-Website/
 
-This project allows users to manage daily tasks with a beautiful neon anime UI, progress tracking, task filtering, and dynamic interactions.
+## Features
+- Add and delete tasks
+- Mark tasks as completed
+- Progress bar
+- Responsive design
+- Anime-inspired interface
 
----
-
-# 🚀 Features
-
-✅ Add new tasks  
-✅ Delete tasks  
-✅ Edit existing tasks  
-✅ Mark tasks as completed  
-✅ Progress bar with completion percentage  
-✅ Task statistics (Total, Completed, Pending)  
-✅ Filter tasks:
-- All
-- Completed
-- Pending
-
-✅ Responsive design for mobile and desktop  
-✅ Dark anime-inspired neon UI  
-✅ Smooth animations and hover effects  
-✅ Enter key support for adding tasks  
-
----
-
-# 🛠️ Technologies Used
-
+## Technologies Used
 - HTML5
 - CSS3
-- Vanilla JavaScript
-- Font Awesome Icons
+- JavaScript
+- GitHub Pages
 
----
-
-# 📂 Project Structure
-
-```bash
-project-folder/
-│
-├── index.html
-├── style.css
-├── script.js
-└── README.md
+## Conclusion
+This project helped improve frontend development skills, responsive web design, and GitHub deployment knowledge through building and hosting a functional Anime To-Do List application.
