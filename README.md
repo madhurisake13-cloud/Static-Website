@@ -1,5 +1,5 @@
 # Static-Website
-# ✨ Anime To-Do List Web App
+# To-Do List Web App
 
 An anime-themed To-Do List web application built using **HTML, CSS, and Vanilla JavaScript**.
 
